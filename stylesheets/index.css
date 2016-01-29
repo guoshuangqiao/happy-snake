@@ -1,0 +1,19 @@
+body{
+	background:url(../img/3.jpg);
+}
+.changjing{
+	width:590px;
+	height: 590px;
+	box-shadow: 0 0 10px black;
+	background:url(../img/2.jpg);
+	margin: 15px auto;
+	padding: 20px;
+}
+.block{
+	width: 58px;
+	height:58px;
+	border-radius:2px;
+	background-color:white;
+	float: left;
+	margin: 0 1px 1px 0;
+}
